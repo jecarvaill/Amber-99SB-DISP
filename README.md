@@ -21,7 +21,7 @@ the same terms, and also provides an express grant of patent rights from
 contributors to users.
 
 ## Citation
-If you use our code for research, please cite metalPDB paper:
+If you use our code for research, please cite this paper:
 ```text
 @article{robustelli2018a99sb-disp,
   title={Developing a molecular dynamics force field for both folded and disordered protein states},
